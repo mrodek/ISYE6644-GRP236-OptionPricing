@@ -20,3 +20,11 @@ $ . venv/bin/activate
 ```zsh
 $ pip install -r requirements.txt
 ```
+
+
+## Sections:
+
+The notebooks can be run in order and cover a variety of topics related to simulation of Option Pricing
+
+### Part 1 & 2
+Notebook Part_1_and_2 contains simulations of Brownian Motion, Geometric Bronian Motion, European Options (Puts and Calls), and the Greeks (*Jonathan Fine*) . It includes demos and plots of simulating Options and Greeks as functions of a dependent variable using variance reduction with Common Random Numbers. Asian Options are also included (*Emmanuel Isaac*).
